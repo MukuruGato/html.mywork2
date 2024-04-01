@@ -1,0 +1,17 @@
+.mine{
+    border-radius: 50%;
+    width: 150px;
+}
+.headercontainer{
+    padding-top: 15px;
+}
+.nav-link{
+    color: orange;
+}
+.nav .nav-link.active{
+    background-color: orange;
+}
+h1{
+    font-family: "Sacramento", cursive;
+    color: darkorange;
+}
